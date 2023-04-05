@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Cake
+Favorite musician/band: Dudu Tasa 
+Favorite movie: The Matrix
+Requested grade in the course: 85 
